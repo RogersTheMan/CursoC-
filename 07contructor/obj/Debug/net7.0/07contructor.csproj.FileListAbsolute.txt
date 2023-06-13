@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\bin\Debug\net7.0\07contructor.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\bin\Debug\net7.0\07contructor.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\bin\Debug\net7.0\07contructor.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\bin\Debug\net7.0\07contructor.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\bin\Debug\net7.0\07contructor.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\refint\07contructor.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\07contructor.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\07contructor\obj\Debug\net7.0\ref\07contructor.dll

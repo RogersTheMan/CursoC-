@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\bin\Debug\net7.0\02metodos.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\bin\Debug\net7.0\02metodos.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\bin\Debug\net7.0\02metodos.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\bin\Debug\net7.0\02metodos.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\bin\Debug\net7.0\02metodos.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\refint\02metodos.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\02metodos.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\02metodos\obj\Debug\net7.0\ref\02metodos.dll

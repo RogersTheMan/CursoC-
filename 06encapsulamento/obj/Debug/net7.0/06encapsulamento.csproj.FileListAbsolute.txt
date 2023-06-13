@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\bin\Debug\net7.0\06encapsulamento.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\bin\Debug\net7.0\06encapsulamento.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\bin\Debug\net7.0\06encapsulamento.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\bin\Debug\net7.0\06encapsulamento.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\bin\Debug\net7.0\06encapsulamento.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\refint\06encapsulamento.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\06encapsulamento.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\06encapsulamento\obj\Debug\net7.0\ref\06encapsulamento.dll

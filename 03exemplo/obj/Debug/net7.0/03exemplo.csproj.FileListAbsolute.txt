@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\bin\Debug\net7.0\03exemplo.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\bin\Debug\net7.0\03exemplo.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\bin\Debug\net7.0\03exemplo.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\bin\Debug\net7.0\03exemplo.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\bin\Debug\net7.0\03exemplo.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\refint\03exemplo.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\03exemplo.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\03exemplo\obj\Debug\net7.0\ref\03exemplo.dll
