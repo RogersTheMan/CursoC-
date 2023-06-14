@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\bin\Debug\net7.0\08getset.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\bin\Debug\net7.0\08getset.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\bin\Debug\net7.0\08getset.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\bin\Debug\net7.0\08getset.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\bin\Debug\net7.0\08getset.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\refint\08getset.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\08getset.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\08getset\obj\Debug\net7.0\ref\08getset.dll
