@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\bin\Debug\net7.0\09this.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\bin\Debug\net7.0\09this.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\bin\Debug\net7.0\09this.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\bin\Debug\net7.0\09this.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\bin\Debug\net7.0\09this.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\refint\09this.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\09this.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\09this\obj\Debug\net7.0\ref\09this.dll
