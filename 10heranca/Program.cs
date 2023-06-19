@@ -1,0 +1,1 @@
+﻿Colaborador obj = new Colaborador("Rodrigo", 20, 2300.00);

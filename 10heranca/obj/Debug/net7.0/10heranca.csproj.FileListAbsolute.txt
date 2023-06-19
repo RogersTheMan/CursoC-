@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\bin\Debug\net7.0\10heranca.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\bin\Debug\net7.0\10heranca.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\bin\Debug\net7.0\10heranca.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\bin\Debug\net7.0\10heranca.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\bin\Debug\net7.0\10heranca.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\refint\10heranca.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\10heranca.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\10heranca\obj\Debug\net7.0\ref\10heranca.dll
