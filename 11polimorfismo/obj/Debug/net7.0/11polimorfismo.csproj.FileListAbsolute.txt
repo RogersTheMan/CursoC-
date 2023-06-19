@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\bin\Debug\net7.0\11polimorfismo.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\bin\Debug\net7.0\11polimorfismo.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\bin\Debug\net7.0\11polimorfismo.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\bin\Debug\net7.0\11polimorfismo.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\bin\Debug\net7.0\11polimorfismo.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\refint\11polimorfismo.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\11polimorfismo.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\11polimorfismo\obj\Debug\net7.0\ref\11polimorfismo.dll

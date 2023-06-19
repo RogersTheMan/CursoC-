@@ -9,7 +9,7 @@ class Pessoa
     protected void mensagemPessoa()
     {
         Console.WriteLine("Nome: "+nome);
-        Console.WriteLine("Idade: "+idade);
+        Console.WriteLine("Idade: "+idade );
 
     }
 }
