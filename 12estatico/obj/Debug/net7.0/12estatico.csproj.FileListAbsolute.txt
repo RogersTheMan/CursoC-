@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\bin\Debug\net7.0\12estatico.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\bin\Debug\net7.0\12estatico.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\bin\Debug\net7.0\12estatico.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\bin\Debug\net7.0\12estatico.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\bin\Debug\net7.0\12estatico.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\refint\12estatico.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\12estatico.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\12estatico\obj\Debug\net7.0\ref\12estatico.dll
