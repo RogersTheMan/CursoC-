@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\bin\Debug\net7.0\14interface.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\bin\Debug\net7.0\14interface.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\bin\Debug\net7.0\14interface.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\bin\Debug\net7.0\14interface.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\bin\Debug\net7.0\14interface.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\refint\14interface.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\14interface.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\14interface\obj\Debug\net7.0\ref\14interface.dll
