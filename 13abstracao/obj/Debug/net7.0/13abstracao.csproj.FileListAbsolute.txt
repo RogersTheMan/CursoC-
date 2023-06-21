@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\bin\Debug\net7.0\13abstracao.exe
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\bin\Debug\net7.0\13abstracao.deps.json
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\bin\Debug\net7.0\13abstracao.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\bin\Debug\net7.0\13abstracao.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\bin\Debug\net7.0\13abstracao.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\refint\13abstracao.dll
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.pdb
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\13abstracao.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\c#\13abstracao\obj\Debug\net7.0\ref\13abstracao.dll
